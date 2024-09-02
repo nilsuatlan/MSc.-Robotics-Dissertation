@@ -1,10 +1,10 @@
 # dissertation
 
-**Author:** Nilsu Atlan
-
 MSc. Robotics Dissertation
 
 **Title:** Accelerating Large-Scale Simulations of Parallel Connected Lithium-Ion Battery Packs
+
+**Author:** Nilsu Atlan
 
 **Supervisor:** Dr. Ross Drummond
 
