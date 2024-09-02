@@ -1,6 +1,6 @@
 # dissertation
 
-**Author: ** Nilsu Atlan
+**Author:** Nilsu Atlan
 
 MSc. Robotics Dissertation
 
