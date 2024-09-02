@@ -18,12 +18,11 @@ MSc. Robotics Dissertation
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
 ![slide_logo](https://github.com/user-attachments/assets/349f2344-459d-4096-8e3a-78d2780ab83d)
+
+[SLIDE_parallel.zip](https://github.com/nilsuatlan/dissertation/blob/main/SLIDE-parallel.zip) is the branch of SLIDE that includes the combination of developed C++ code for the dissertaiton and the existing SLIDE software. 
+
+The related repositories can be accessed from below:
 
 ## Related Repositories
 - [SLIDE Repository](https://github.com/Battery-Intelligence-Lab/SLIDE/tree/parallel)
